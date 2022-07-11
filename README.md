@@ -1,3 +1,10 @@
+# other
+- https://github.com/friedrichs-repo/TuttiBot
+- https://github.com/livioso/moritz-tutti-scrapy
+- https://github.com/maffka123/tutti_zip_scrape
+- https://github.com/filippofinke/tutti-api *mah*
+
+
 # tuttify
 
 Tired of being notified too late about new listings of your favourite things?
